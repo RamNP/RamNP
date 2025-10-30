@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**RamNP/RamNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ram Nepali, a passionate Flutter and Android Developer who loves building smooth, user-friendly, and scalable mobile applications. 🚀
 
-Here are some ideas to get you started:
+🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’m currently working on mobile app development using Flutter & Kotlin.
+
+🌍 I enjoy turning ideas into fully functional apps with clean and modern UI.
+
+🧠 I’m currently learning advanced Flutter architecture and backend integration.
+
+🤝 I’m open to collaborating on mobile app projects and startup ideas.
+
+⚙️ I have experience integrating APIs, BLE devices, AI/ML models, and real-time communication in apps.
+
+💬 Ask Me About
+
+Flutter & Dart
+
+Android (Kotlin / Jetpack Compose)
+
+REST APIs & Firebase Integration
+
+BLE, IoT & Real-time Apps
+
+📫 How to Reach Me
+
+📧 Email: pariyarram2023@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/ram-pariyar-920942280/
