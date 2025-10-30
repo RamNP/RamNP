@@ -24,8 +24,7 @@ BLE, IoT, and Real-time Applications ⚡
 
 🧰 Languages & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,python,django,firebase,git,github,html,css,js,react,vscode,postman,figma&theme=light" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RamNP&show_icons=true&theme=radical" alt="Ram's GitHub stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamNP&theme=radical" alt="GitHub streak" width="48%"/> </p>
+
 
 📫 How to Reach Me
 
